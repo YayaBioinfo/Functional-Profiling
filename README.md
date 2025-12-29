@@ -23,5 +23,3 @@ This repository provides multiple approaches for analyzing the functional potent
 - Gene family profiles
 - Functional annotation results
 
-## 📎 Notes
-This pipeline is intended for research and educational purposes.
